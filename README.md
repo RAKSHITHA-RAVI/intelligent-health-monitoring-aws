@@ -1,4 +1,5 @@
 # Intelligent Health Monitoring & Heart Attack Prediction System (AWS)
+<img width="1035" height="603" alt="image" src="https://github.com/user-attachments/assets/eb541058-9104-4e08-b26f-1ac8e14b58c4" />
 
 An end-to-end, cloud-based healthcare analytics and machine learning system built using AWS.  
 This project simulates continuous patient monitoring, processes large-scale health data, predicts heart attack risk using machine learning, and triggers real-time alerts for high-risk patients.
